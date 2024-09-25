@@ -44,4 +44,4 @@ The presentation created walks through the insights and recommendations above an
 
 ![volatility](https://github.com/user-attachments/assets/6663c372-c9b2-43e8-8970-d8c51058903c)
 ![correlation](https://github.com/user-attachments/assets/d06235bb-4fc2-4754-b345-b78a623ff3f6)
-![recommendations](https://github.com/user-attachments/assets/fd11050e-5c16-4406-bbac-2652e6f06ea6)
+![13](https://github.com/user-attachments/assets/b0b54baa-ec43-4020-a455-999bfe20ad4e)
