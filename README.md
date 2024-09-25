@@ -21,7 +21,7 @@ Historical price data for Bitcoin (BTC), Ethereum (ETH), Binance Coin (BNB), Sol
   
 ### Volatility
 - SOL exhibited the highest volatility (0.28) followed closely by DOGE (0.24), potentially indicating higher risk.
-- BTC displayed the lowest volatility, suggesting lower risk.
+- BTC displayed the lowest volatility (0.15), suggesting lower risk.
 - ETH, BNB, and XRP demonstrated varying levels of volatility.
 
 ### Correlations
@@ -35,7 +35,7 @@ Historical price data for Bitcoin (BTC), Ethereum (ETH), Binance Coin (BNB), Sol
 - XRP and ETH have lower Sharpe Ratios of 0.167882 and 0.103561, indicating that their risk-adjusted returns are less favorable, with ETH showing the least favorable profile.
 
 ## Recommendations
-- Prioritize Stability: Allocating a significant portion of the portfolio to an established blue-chip cryptocurrency in Bitcoin (BTC) can be beneficial. Its higher market capitalization and lower volatility, coupled with favorable risk-adjusted returns, can help mitigate the high risk associated with the volatile cryptocurrency market.
+- Prioritize Stability: Allocating a significant portion of the portfolio to an established blue-chip cryptocurrency in Bitcoin (BTC) can be beneficial. Its higher market capitalization and lower volatility (0.15), coupled with favorable risk-adjusted returns (0.350683), can help mitigate the high risk associated with the volatile cryptocurrency market.
 - Balance with Growth Opportunities: While focusing on blue-chip cryptocurrencies for stability, it’s also valuable to balance the portfolio with smaller or emerging assets among the top 10 by market cap that have higher potential for returns such as SOL or DOGE. This approach allows you to capture growth potential while maintaining overall portfolio stability, achieving a blend of stability and growth.
 - Monitor Correlations: Regularly assess correlations between cryptocurrencies to identify potential diversification opportunities and avoid excessive concentration.
   
